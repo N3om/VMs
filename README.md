@@ -1,5 +1,4 @@
-# Virtual Machine
-## Explanation and Guide
+# Virtual Machine - Explanation and Guide
 
 In this document, you can find:
     What is a Virtual Machine?
